@@ -7,6 +7,9 @@ import javax.jms.Message;
 import javax.jms.Session;
 
 
+
+
+
 /**
  * 消息核心创建器
  */
